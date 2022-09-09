@@ -1,7 +1,7 @@
 # Welcome to my repository! 😃
 <p> My name is Alexandre Tavares. :herb::handshake: </p>  
 <p> Today I'm Python, Ansible and Java developer, learning ever and ever 🎓 </p>  
-<p> I have 20 years experience developing software 👴. During this time I could work with many platforms, programing languages, operational systems, 
+<p> I have 20+ years experience developing software 👴. During this time I could work with many platforms, programing languages, operational systems, 
     databases and with very smart and interesting people! </p>
 <p> &nbsp; </p>
 
