@@ -1,8 +1,8 @@
 # Welcome to my repository! 😃
 <p> My name is Alexandre Tavares. :herb::handshake: </p>  
-<p> Today I'm Python, Ansible and Java developer, learning ever and ever 🎓 </p>  
-<p> I have 20+ years experience developing software 👴. During this time I could work with many platforms, programing languages, operational systems, 
-    databases and with very smart and interesting people! </p>
+<p> Currently, I work as a DevOps Engineer at Pinterest. </p>
+<p> I'm a Software Engineer with over 23 years of experience in the industry, having knowledge in several languages like Python, Ansible, Java, SQL, Shell Script, JavaScript, Power Shell, learning ever and ever 🎓 </p>  
+<p> During this journey, I have worked with several platforms, operating systems, databases, and intelligent and interesting individuals! </p>
 <p> &nbsp; </p>
 
 
