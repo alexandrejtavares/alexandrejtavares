@@ -7,7 +7,7 @@
 
 
 ### 📫 How to reach me:
-- E-Mail: alexandrejtavares@yahoo.com.br
+- E-Mail: alexandrejtavares@gmail.com
 - LinkedIn: http://linkedin.com/in/alexandrejtavares
 
 <!---
